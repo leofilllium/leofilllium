@@ -26,11 +26,11 @@
 
 Вот некоторые из проектов, над которыми я работал:
 
-#### 🛍️ **Safar One** (Taxi, Delivery App)
+#### 🚕 **Safar One** (Taxi, Delivery App)
 *Приложение для заказов такси и доставки.*
 - **Технологии:** Flutter, Google Maps, WebSockets, Clean Architecture, BLoC, Express JS.
 - **Особенности:** **Динамическое отображение транспорта и сложных карт**, .
-- [Посмотреть код](#)
+- [Посмотреть код](https://github.com/leofilllium/Taxi-Application)
 #### 🗺️ **Uz Guide** (Туристический сервис)
 *Приложение для поиска гидов и маршрутов.*
 - **Технологии:** Flutter, FastAPI, Clean Architecture, React JS.
@@ -81,7 +81,7 @@ I specialize in building scalable cross‑platform applications using **Clean Ar
 
 Here are some of the projects I’ve worked on:
 
-#### 🛍️ **Safar One** (Taxi, Delivery App)
+#### 🚕 **Safar One** (Taxi, Delivery App)
 
 *A taxi and delivery service application.*
 
