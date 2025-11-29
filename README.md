@@ -97,6 +97,11 @@ Here are some of the projects I've worked on:
 - **Technologies**: Flutter, Clean Architecture, BLoC, JSON, Video Player.
 - **Features**: Exercise categories, programs, storage and streaming of instructional videos, favorite exercises.
 - [View Code](https://github.com/leofilllium/gym-app)
+#### 🛍️ **Belle Aura** (E-commerce)
+*A perfume marketplace with a recommendation algorithm.*
+- **Technologies:** Flutter, Clean Architecture, BLoC, Express JS, React JS.
+- **Features:** **Complex filtering system**, **Recommendation algorithm and personalization**.
+- [View Code](https://github.com/leofilllium/perfume-app)
 #### 🗺️ **Uz Guide** (Tourism Service)
 *An application for finding guides and routes.*
 - **Technologies:** React JS, FastAPI, Clean Architecture.
@@ -106,11 +111,6 @@ Here are some of the projects I've worked on:
 *A trading application with ML-based forecasts.*
 - **Technologies:** Flutter, BLoC, Python ML.
 - **Features:** **Integration of machine learning models**.
-- [View Code](#)
-#### 🛍️ **Belle Aura** (E-commerce)
-*A perfume marketplace with a recommendation algorithm.*
-- **Technologies:** Flutter, Clean Architecture, BLoC, Express JS, React JS.
-- **Features:** **Complex filtering system**, **Recommendation algorithm and personalization**.
 - [View Code](#)
 
 ---
