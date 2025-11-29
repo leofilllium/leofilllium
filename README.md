@@ -31,11 +31,16 @@
 - **Технологии:** Flutter, Google Maps, WebSockets, Clean Architecture, BLoC, Express JS.
 - **Особенности:** **Динамическое отображение транспорта и сложных карт**, .
 - [Посмотреть код](https://github.com/leofilllium/Taxi-Application)
+#### 🏋️ **Rafis Gym** (Fitness & Workout App)
+*Приложение для тренировок с библиотекой видео-упражнений.*
+- **Технологии**: Flutter, Clean Architecture, BLoC, JSON, Video Player.
+- **Особенности**: Категории упражнений, программы, хранение и потоковое воспроизведение обучающих видео, избранные упражнение.
+- [Посмотреть код](https://github.com/leofilllium/gym-app)
 #### 🗺️ **Uz Guide** (Туристический сервис)
 *Приложение для поиска гидов и маршрутов.*
 - **Технологии:** Flutter, FastAPI, Clean Architecture, React JS.
 - **Особенности:** **Простой UI**
-- [Посмотреть код](#)
+- [Посмотреть код](https://github.com/leofilllium/guide-tour)
 #### 📈 **Crypto Signal App** (Финтех)
 *Трейдинговое приложение с прогнозами на основе ML.*
 - **Технологии:** Flutter, BLoC, Python ML.
