@@ -26,6 +26,11 @@
 
 Вот некоторые из проектов, над которыми я работал:
 
+#### ⚖️ **ИИ Юрист** (AI Legal Assistant)
+*Мобильное и веб-приложение для ИИ-юридической помощи на основе законодательства Узбекистана.*
+- **Технологии:** Flutter, React JS, FastAPI, Clean Architecture, BLoC, RAG, SSE Streaming.
+- **Особенности:** **Анализ и генерация договоров с AI, многорежимный юридический чат (20+ режимов), ролевая система (HEAD/SENIOR/EMPLOYEE), управление задачами и командой.**
+- [Посмотреть код](https://github.com/leofilllium/AI-UZ-Lawyer-Mobile)
 #### 🚕 **Safar One** (Taxi, Delivery App)
 *Приложение для заказов такси и доставки.*
 - **Технологии:** Flutter, Google Maps, WebSockets, Clean Architecture, BLoC, Express JS.
@@ -46,11 +51,6 @@
 - **Технологии:** React JS, FastAPI.
 - **Особенности:** **Простой UI**
 - [Посмотреть код](https://github.com/leofilllium/guide-tour)
-#### 📈 **Crypto Signal App** (Финтех)
-*Трейдинговое приложение с прогнозами на основе ML.*
-- **Технологии:** Flutter, BLoC, Python ML.
-- **Особенности:** **Интеграция моделей машинного обучения**.
-- [Посмотреть код](#)
 
 
 ---
